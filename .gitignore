@@ -1,0 +1,6 @@
+.DS_Store
+.pyo
+.idea
+mpy/*
+coffee-app/*
+boot.py
